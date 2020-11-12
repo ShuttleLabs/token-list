@@ -18,7 +18,7 @@
   },
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
-    {"address":"0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735","chainId":4,"name":"DaiStablecoin","symbol":"DAI","decimals":18,"logoURI":"https://tokens.1inch.exchange/0x6b175474e89094c44da98b954eedeac495271d0f.png"},
+    {"address":"0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735","chainId":4,"name":"DaiStablecoin","symbol":"DAI","decimals":18,"logoURI":"https://tokens.1inch.exchange/0x6b175474e89094c44da98b954eedeac495271d0f.png"}
   ],
   
   "version": {
