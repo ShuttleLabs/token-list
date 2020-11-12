@@ -1,29 +1,16 @@
 {
-  "name": "Shuttle List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": [
-    "audited",
-    "verified",
-    "special tokens"
-  ],
-  "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "compound": {
-      "name": "Compound Finance",
-      "description": "Tokens that earn interest on compound.finance"
-    }
-  },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+  "name": "UMA",
+  "logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+  "keywords": ["defi", "uma", "yield"],
+  "timestamp": "2020-08-25T01:40:34.305Z",
   "tokens": [
-    {"address":"0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735","chainId":4,"name":"DaiStablecoin","symbol":"DAI","decimals":18,"logoURI":"https://tokens.1inch.exchange/0x6b175474e89094c44da98b954eedeac495271d0f.png"}
+    {
+      "chainId": 4,
+      "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18
+    }
   ],
-  
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  "version": { "major": 0, "minor": 0, "patch": 0 }
 }
